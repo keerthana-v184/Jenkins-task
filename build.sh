@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello Keerthana Welcome to  Jenkins build!"
+echo "Hello Keerthana Welcome to the Jenkins build!"
